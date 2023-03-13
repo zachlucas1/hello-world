@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register<ih1>
     <p>Please fill in this form to create an account.</p>
-    <hr>]
+    <hr>
 
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
